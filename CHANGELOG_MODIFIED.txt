@@ -1,0 +1,5 @@
+FamilyShield 2.6 Screenshot Risk Fix package
+- Includes the updated screenshot-risk analysis source.
+- Includes config/db.properties and config/db.properties.example.
+- Includes run-windows.bat, run-linux-mac.sh, pom.xml, and database/schema.sql.
+- Configure your own MySQL password locally before running.

@@ -1,0 +1,15 @@
+
+# MySQL credentials
+config/db.properties
+
+# Java and Maven build output
+target/
+*.class
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
